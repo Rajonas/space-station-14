@@ -1408,8 +1408,8 @@
   name: Farmer's jumpsuit
   description: An old, rugged jumpsuit, stained by years of toil in the fields.
   components:
-    - type: Sprite
-      sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit.rsi
-    - type: Clothing
-      sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit.rsi
+   - type: Sprite
+     sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit.rsi
+   - type: Clothing
+     sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit.rsi
       
