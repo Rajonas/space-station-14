@@ -1402,12 +1402,14 @@
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
 
-- type: entity
+  - type: entity
   parent: ClothingUniformBase
-  id: ClothingUniformFarmerJumpsuit
-  name: farmer's jumpsuit
+  id: ClothingUniformJumpsuitFarmer
+  name: Farmer's jumpsuit
   description: An old, rugged jumpsuit, stained by years of toil in the fields.
   components:
-  - type: Sprite
-    sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit/farmer_jumpsuit.rsi
-  - type: Clothing
+    - type: Sprite
+      sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit/farmer_jumpsuit.rsi
+    - type: Clothing
+      sprite: Clothing/Medieval/Jumpsuits/farmers_jumpsuit/farmer_jumpsuit.rsi
+      
