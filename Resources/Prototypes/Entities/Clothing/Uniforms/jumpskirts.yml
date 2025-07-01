@@ -913,3 +913,14 @@
     tags:
     - ClownSuit
     - WhitelistChameleon
+
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtFarmer
+  name: Farmer's jumpskirt
+  description: An old, rugged jumpskirt stained and worn from long days working the fields.
+  components:
+    - type: Sprite
+      sprite: Clothing/Uniforms/Jumpskirt/farmers_jumpskirt.rsi
+    - type: Clothing
+      sprite: Clothing/Uniforms/Jumpskirt/farmers_jumpskirt.rsi
