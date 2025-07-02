@@ -383,3 +383,14 @@
     - Hair
     - HeadTop
     - HeadSide
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatGoldenCrown
+  name: Golden crown
+  description: A gleaming crown of pure gold, symbolising absolute power and royal authority.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Misc/goldencrown.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Misc/goldencrown.rsi
